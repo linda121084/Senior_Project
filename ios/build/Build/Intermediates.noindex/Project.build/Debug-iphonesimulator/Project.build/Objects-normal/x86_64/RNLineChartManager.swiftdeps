@@ -1,0 +1,166 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RNLineChartManager"
+provides-nominal:
+- "7Project18RNLineChartManagerC"
+provides-member:
+- ["7Project18RNLineChartManagerC", ""]
+provides-dynamic-lookup:
+- "requiresMainQueueSetup"
+- "view"
+depends-top-level:
+- "Bool"
+- !private "BooleanLiteralType"
+- "RCTViewManager"
+- "RNLineChartManager"
+- !private "RNLineChartView"
+- "UIView"
+depends-member:
+- !private ["So15CALayerDelegateP", "init"]
+- !private ["s7CVarArgP", "RNLineChartView"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", ""]
+- !private ["6Charts17ChartViewDelegateP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "RNLineChartView"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "RNLineChartView"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "RNLineChartView"]
+- !private ["s9EquatableP", "init"]
+- ["s9EquatableP", ""]
+- !private ["s8HashableP", "RNLineChartView"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", ""]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSObjectC", "Bool"]
+- !private ["So8NSObjectC", "RNLineChartView"]
+- ["So8NSObjectC", "UIView"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "requiresMainQueueSetup"]
+- ["So8NSObjectC", "view"]
+- !private ["So16NSObjectProtocolP", "RNLineChartView"]
+- !private ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["So15RCTBridgeModuleP", "RNLineChartView"]
+- !private ["So15RCTBridgeModuleP", "init"]
+- ["So15RCTBridgeModuleP", ""]
+- !private ["So12RCTComponentP", "init"]
+- ["So14RCTViewManagerC", "Bool"]
+- !private ["So14RCTViewManagerC", "RNLineChartView"]
+- ["So14RCTViewManagerC", "UIView"]
+- ["So14RCTViewManagerC", "init"]
+- ["So14RCTViewManagerC", "requiresMainQueueSetup"]
+- ["So14RCTViewManagerC", "view"]
+- ["So14RCTViewManagerC", ""]
+- !private ["7Project22RNBarLineChartViewBaseC", "init"]
+- !private ["7Project15RNChartViewBaseC", "init"]
+- ["7Project18RNLineChartManagerC", "Bool"]
+- !private ["7Project18RNLineChartManagerC", "RNLineChartView"]
+- ["7Project18RNLineChartManagerC", "UIView"]
+- ["7Project18RNLineChartManagerC", "deinit"]
+- ["7Project18RNLineChartManagerC", "init"]
+- ["7Project18RNLineChartManagerC", "requiresMainQueueSetup"]
+- ["7Project18RNLineChartManagerC", "view"]
+- !private ["7Project15RNLineChartViewC", "init"]
+- !private ["7Project20RNYAxisChartViewBaseC", "init"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- !private ["So12UIAppearanceP", "init"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- !private ["So13UIDynamicItemP", "init"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- !private ["So11UIFocusItemP", "init"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- !private ["So11UIResponderC", "init"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- !private ["So6UIViewC", "init"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "RNLineChartView"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+depends-nominal:
+- !private "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "6Charts17ChartViewDelegateP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- !private "So8NSCodingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So15RCTBridgeModuleP"
+- !private "So12RCTComponentP"
+- "So14RCTViewManagerC"
+- !private "7Project22RNBarLineChartViewBaseC"
+- !private "7Project15RNChartViewBaseC"
+- "7Project18RNLineChartManagerC"
+- !private "7Project15RNLineChartViewC"
+- !private "7Project20RNYAxisChartViewBaseC"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So18UITraitEnvironmentP"
+- !private "So6UIViewC"
+- !private "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Modules/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/sitingyo/ReactNative/Project/ios/Project-Bridging-Header.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Headers/Charts.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Headers/Charts-Swift.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Modules/module.modulemap"
+interface-hash: "f3c6db847fbe69b0b0dc45c0305860c5"

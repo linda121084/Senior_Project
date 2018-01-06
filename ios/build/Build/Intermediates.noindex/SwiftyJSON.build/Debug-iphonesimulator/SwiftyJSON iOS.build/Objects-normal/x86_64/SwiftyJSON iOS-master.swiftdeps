@@ -1,0 +1,5 @@
+version: "Apple Swift version 4.0.3 (swiftlang-900.0.74.1 clang-900.0.39.2)"
+options: "455d5fbd399f86539592cff820c9fe87"
+build_time: [1513190735, 270522000]
+inputs:
+  "/Users/sitingyo/ReactNative/Project/ios/SwiftyJSON-master/Source/SwiftyJSON.swift": [1510076840, 0]

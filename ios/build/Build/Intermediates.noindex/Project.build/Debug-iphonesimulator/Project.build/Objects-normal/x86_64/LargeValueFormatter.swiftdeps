@@ -1,0 +1,331 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LargeValueFormatter"
+provides-nominal:
+- "7Project19LargeValueFormatterC"
+provides-member:
+- ["7Project19LargeValueFormatterC", ""]
+provides-dynamic-lookup:
+- "appendix"
+- "stringForValue"
+- "suffix"
+depends-top-level:
+- !private "!="
+- !private "&&"
+- !private "+"
+- !private "+="
+- !private "-"
+- !private "/="
+- !private "<"
+- !private ">="
+- "Array"
+- "AssignmentPrecedence"
+- "AxisBase"
+- "ChartDataEntry"
+- "Double"
+- "FloatLiteralType"
+- "IAxisValueFormatter"
+- "IValueFormatter"
+- "Int"
+- "IntegerLiteralType"
+- "LargeValueFormatter"
+- "NSObject"
+- "String"
+- "StringLiteralType"
+- "UnicodeScalarType"
+- "ViewPortHandler"
+depends-member:
+- !private ["Sa", "count"]
+- !private ["Sa", "subscript"]
+- !private ["s23BidirectionalCollectionP", "count"]
+- ["s23BidirectionalCollectionP", "init"]
+- !private ["s23BidirectionalCollectionP", "subscript"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["s7CVarArgP", "String"]
+- !private ["s7CVarArgP", "appendix"]
+- !private ["s7CVarArgP", "count"]
+- !private ["s7CVarArgP", "format"]
+- ["s7CVarArgP", "init"]
+- ["s7CVarArgP", "stringForValue"]
+- !private ["s7CVarArgP", "subscript"]
+- !private ["s7CVarArgP", "suffix"]
+- ["s7CVarArgP", ""]
+- !private ["s10CollectionP", "count"]
+- ["s10CollectionP", "init"]
+- !private ["s10CollectionP", "subscript"]
+- ["s10ComparableP", "init"]
+- !private ["s28CustomDebugStringConvertibleP", "String"]
+- !private ["s28CustomDebugStringConvertibleP", "appendix"]
+- !private ["s28CustomDebugStringConvertibleP", "count"]
+- !private ["s28CustomDebugStringConvertibleP", "format"]
+- ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", "stringForValue"]
+- !private ["s28CustomDebugStringConvertibleP", "subscript"]
+- !private ["s28CustomDebugStringConvertibleP", "suffix"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s29CustomPlaygroundQuickLookableP", "_getBuiltinLogicValue"]
+- ["s29CustomPlaygroundQuickLookableP", "init"]
+- !private ["s17CustomReflectableP", "_getBuiltinLogicValue"]
+- !private ["s17CustomReflectableP", "count"]
+- ["s17CustomReflectableP", "init"]
+- !private ["s17CustomReflectableP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "String"]
+- !private ["s23CustomStringConvertibleP", "_getBuiltinLogicValue"]
+- !private ["s23CustomStringConvertibleP", "appendix"]
+- !private ["s23CustomStringConvertibleP", "count"]
+- !private ["s23CustomStringConvertibleP", "format"]
+- ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", "stringForValue"]
+- !private ["s23CustomStringConvertibleP", "subscript"]
+- !private ["s23CustomStringConvertibleP", "suffix"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9DecodableP", "_getBuiltinLogicValue"]
+- !private ["s9DecodableP", "count"]
+- ["s9DecodableP", "init"]
+- !private ["s9DecodableP", "subscript"]
+- !private ["s9EncodableP", "_getBuiltinLogicValue"]
+- !private ["s9EncodableP", "count"]
+- ["s9EncodableP", "init"]
+- !private ["s9EncodableP", "subscript"]
+- !private ["s9EquatableP", "String"]
+- !private ["s9EquatableP", "_getBuiltinLogicValue"]
+- !private ["s9EquatableP", "appendix"]
+- !private ["s9EquatableP", "format"]
+- ["s9EquatableP", "init"]
+- ["s9EquatableP", "stringForValue"]
+- !private ["s9EquatableP", "suffix"]
+- ["s9EquatableP", ""]
+- !private ["s25ExpressibleByArrayLiteralP", "count"]
+- !private ["s25ExpressibleByArrayLiteralP", "subscript"]
+- !private ["s27ExpressibleByBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s43ExpressibleByExtendedGraphemeClusterLiteralP", "init"]
+- ["s26ExpressibleByStringLiteralP", "init"]
+- ["s33ExpressibleByUnicodeScalarLiteralP", "init"]
+- !private ["s8HashableP", "String"]
+- !private ["s8HashableP", "_getBuiltinLogicValue"]
+- !private ["s8HashableP", "appendix"]
+- !private ["s8HashableP", "format"]
+- ["s8HashableP", "init"]
+- ["s8HashableP", "stringForValue"]
+- !private ["s8HashableP", "suffix"]
+- ["s8HashableP", ""]
+- !private ["6Charts19IAxisValueFormatterP", "String"]
+- !private ["6Charts19IAxisValueFormatterP", "appendix"]
+- !private ["6Charts19IAxisValueFormatterP", "format"]
+- ["6Charts19IAxisValueFormatterP", "stringForValue"]
+- !private ["6Charts19IAxisValueFormatterP", "suffix"]
+- ["6Charts19IAxisValueFormatterP", ""]
+- !private ["6Charts15IValueFormatterP", "String"]
+- !private ["6Charts15IValueFormatterP", "appendix"]
+- !private ["6Charts15IValueFormatterP", "format"]
+- ["6Charts15IValueFormatterP", "stringForValue"]
+- !private ["6Charts15IValueFormatterP", "suffix"]
+- ["6Charts15IValueFormatterP", ""]
+- ["10SwiftyJSON17JSONSubscriptTypeP", "init"]
+- ["7Project19LargeValueFormatterC", "AxisBase"]
+- ["7Project19LargeValueFormatterC", "ChartDataEntry"]
+- ["7Project19LargeValueFormatterC", "Double"]
+- ["7Project19LargeValueFormatterC", "Int"]
+- !private ["7Project19LargeValueFormatterC", "MAX_LENGTH"]
+- ["7Project19LargeValueFormatterC", "String"]
+- ["7Project19LargeValueFormatterC", "ViewPortHandler"]
+- ["7Project19LargeValueFormatterC", "appendix"]
+- ["7Project19LargeValueFormatterC", "deinit"]
+- !private ["7Project19LargeValueFormatterC", "format"]
+- ["7Project19LargeValueFormatterC", "init"]
+- ["7Project19LargeValueFormatterC", "stringForValue"]
+- ["7Project19LargeValueFormatterC", "suffix"]
+- !private ["s25LosslessStringConvertibleP", "_getBuiltinLogicValue"]
+- ["s25LosslessStringConvertibleP", "init"]
+- ["s10MirrorPathP", "init"]
+- !private ["s17MutableCollectionP", "count"]
+- !private ["s17MutableCollectionP", "subscript"]
+- ["So8NSCodingP", "init"]
+- ["So9NSCopyingP", "init"]
+- ["So21NSItemProviderReadingP", "init"]
+- ["So21NSItemProviderWritingP", "init"]
+- ["So16NSMutableCopyingP", "init"]
+- ["So8NSObjectC", "AxisBase"]
+- ["So8NSObjectC", "ChartDataEntry"]
+- ["So8NSObjectC", "Double"]
+- ["So8NSObjectC", "Int"]
+- ["So8NSObjectC", "MAX_LENGTH"]
+- ["So8NSObjectC", "String"]
+- ["So8NSObjectC", "ViewPortHandler"]
+- ["So8NSObjectC", "appendix"]
+- ["So8NSObjectC", "format"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "stringForValue"]
+- ["So8NSObjectC", "suffix"]
+- ["So8NSObjectC", ""]
+- !private ["So16NSObjectProtocolP", "String"]
+- !private ["So16NSObjectProtocolP", "appendix"]
+- !private ["So16NSObjectProtocolP", "format"]
+- ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", "stringForValue"]
+- !private ["So16NSObjectProtocolP", "suffix"]
+- ["So16NSObjectProtocolP", ""]
+- ["So14NSSecureCodingP", "init"]
+- ["So8NSStringC", "init"]
+- !private ["s22RandomAccessCollectionP", "count"]
+- !private ["s22RandomAccessCollectionP", "subscript"]
+- !private ["s26RangeReplaceableCollectionP", "count"]
+- ["s26RangeReplaceableCollectionP", "init"]
+- !private ["s26RangeReplaceableCollectionP", "subscript"]
+- !private ["s8SequenceP", "count"]
+- ["s8SequenceP", "init"]
+- !private ["s8SequenceP", "subscript"]
+- ["SS", "init"]
+- ["s14StringProtocolP", "init"]
+- ["s16TextOutputStreamP", "init"]
+- ["s20TextOutputStreamableP", "init"]
+- !private ["s14_ArrayProtocolP", "count"]
+- !private ["s14_ArrayProtocolP", "subscript"]
+- !private ["s23_BidirectionalIndexableP", "count"]
+- ["s23_BidirectionalIndexableP", "init"]
+- !private ["s23_BidirectionalIndexableP", "subscript"]
+- !private ["s24_DestructorSafeContainerP", "count"]
+- !private ["s24_DestructorSafeContainerP", "subscript"]
+- !private ["s35_ExpressibleByBuiltinBooleanLiteralP", "_getBuiltinLogicValue"]
+- ["s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP", "init"]
+- ["s34_ExpressibleByBuiltinStringLiteralP", "init"]
+- ["s39_ExpressibleByBuiltinUTF16StringLiteralP", "init"]
+- ["s41_ExpressibleByBuiltinUnicodeScalarLiteralP", "init"]
+- ["s33_ExpressibleByStringInterpolationP", "init"]
+- ["s35_HasCustomAnyHashableRepresentationP", "init"]
+- !private ["s10_IndexableP", "count"]
+- ["s10_IndexableP", "init"]
+- !private ["s10_IndexableP", "subscript"]
+- !private ["s14_IndexableBaseP", "count"]
+- ["s14_IndexableBaseP", "init"]
+- !private ["s14_IndexableBaseP", "subscript"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "String"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "appendix"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "format"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", "stringForValue"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "suffix"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["s17_MutableIndexableP", "count"]
+- !private ["s17_MutableIndexableP", "subscript"]
+- !private ["s21_ObjectiveCBridgeableP", "_getBuiltinLogicValue"]
+- !private ["s21_ObjectiveCBridgeableP", "count"]
+- ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "subscript"]
+- !private ["s22_RandomAccessIndexableP", "count"]
+- !private ["s22_RandomAccessIndexableP", "subscript"]
+- !private ["s26_RangeReplaceableIndexableP", "count"]
+- ["s26_RangeReplaceableIndexableP", "init"]
+- !private ["s26_RangeReplaceableIndexableP", "subscript"]
+- ["s16_SwiftStringViewP", "init"]
+depends-nominal:
+- !private "Sa"
+- "s23BidirectionalCollectionP"
+- !private "Sb"
+- "s7CVarArgP"
+- "s10CollectionP"
+- "s10ComparableP"
+- "s28CustomDebugStringConvertibleP"
+- "s29CustomPlaygroundQuickLookableP"
+- "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- "s9DecodableP"
+- "s9EncodableP"
+- "s9EquatableP"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s27ExpressibleByBooleanLiteralP"
+- "s43ExpressibleByExtendedGraphemeClusterLiteralP"
+- "s26ExpressibleByStringLiteralP"
+- "s33ExpressibleByUnicodeScalarLiteralP"
+- "s8HashableP"
+- "6Charts19IAxisValueFormatterP"
+- "6Charts15IValueFormatterP"
+- "10SwiftyJSON17JSONSubscriptTypeP"
+- "7Project19LargeValueFormatterC"
+- "s25LosslessStringConvertibleP"
+- "s10MirrorPathP"
+- !private "s17MutableCollectionP"
+- "So8NSCodingP"
+- "So9NSCopyingP"
+- "So21NSItemProviderReadingP"
+- "So21NSItemProviderWritingP"
+- "So16NSMutableCopyingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- "So14NSSecureCodingP"
+- "So8NSStringC"
+- !private "s22RandomAccessCollectionP"
+- "s26RangeReplaceableCollectionP"
+- "s8SequenceP"
+- "SS"
+- "s14StringProtocolP"
+- "s16TextOutputStreamP"
+- "s20TextOutputStreamableP"
+- !private "s14_ArrayProtocolP"
+- "s23_BidirectionalIndexableP"
+- !private "s24_DestructorSafeContainerP"
+- !private "s35_ExpressibleByBuiltinBooleanLiteralP"
+- "s51_ExpressibleByBuiltinExtendedGraphemeClusterLiteralP"
+- "s34_ExpressibleByBuiltinStringLiteralP"
+- "s39_ExpressibleByBuiltinUTF16StringLiteralP"
+- "s41_ExpressibleByBuiltinUnicodeScalarLiteralP"
+- "s33_ExpressibleByStringInterpolationP"
+- "s35_HasCustomAnyHashableRepresentationP"
+- "s10_IndexableP"
+- "s14_IndexableBaseP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- !private "s17_MutableIndexableP"
+- "s21_ObjectiveCBridgeableP"
+- !private "s22_RandomAccessIndexableP"
+- "s26_RangeReplaceableIndexableP"
+- "s16_SwiftStringViewP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Modules/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/sitingyo/ReactNative/Project/ios/Project-Bridging-Header.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Headers/Charts.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Headers/Charts-Swift.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Modules/module.modulemap"
+interface-hash: "9d31a276ac3d26940a940f1b00db53b7"

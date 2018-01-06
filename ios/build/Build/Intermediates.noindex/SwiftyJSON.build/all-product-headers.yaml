@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SwiftyJSON-Swift.h",
+          'external-contents': "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SwiftyJSON.h",
+          'external-contents': "/Users/sitingyo/ReactNative/Project/ios/SwiftyJSON-master/Source/SwiftyJSON.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/sitingyo/ReactNative/Project/ios/build/Build/Intermediates.noindex/SwiftyJSON.build/Debug-iphonesimulator/SwiftyJSON iOS.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

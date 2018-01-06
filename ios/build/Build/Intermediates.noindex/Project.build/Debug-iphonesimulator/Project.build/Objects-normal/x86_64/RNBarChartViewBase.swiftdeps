@@ -1,0 +1,312 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "RNBarChartViewBase"
+provides-nominal:
+- "7Project18RNBarChartViewBaseC"
+provides-member:
+- ["7Project18RNBarChartViewBaseC", ""]
+provides-dynamic-lookup:
+- "setDrawBarShadow"
+- "setDrawValueAboveBar"
+depends-top-level:
+- "AssignmentPrecedence"
+- "BarChartView"
+- "Bool"
+- !private "CastingPrecedence"
+- "RNBarChartViewBase"
+- "RNBarLineChartViewBase"
+depends-member:
+- !private ["6Charts16AnimatorDelegateP", "drawBarShadowEnabled"]
+- !private ["6Charts16AnimatorDelegateP", "drawValueAboveBarEnabled"]
+- !private ["6Charts20BarChartDataProviderP", "drawBarShadowEnabled"]
+- !private ["6Charts20BarChartDataProviderP", "drawValueAboveBarEnabled"]
+- !private ["6Charts12BarChartViewC", "drawBarShadowEnabled"]
+- !private ["6Charts12BarChartViewC", "drawValueAboveBarEnabled"]
+- !private ["6Charts20BarLineChartViewBaseC", "drawBarShadowEnabled"]
+- !private ["6Charts20BarLineChartViewBaseC", "drawValueAboveBarEnabled"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "drawBarShadowEnabled"]
+- !private ["6Charts43BarLineScatterCandleBubbleChartDataProviderP", "drawValueAboveBarEnabled"]
+- !private ["So15CALayerDelegateP", "barChart"]
+- !private ["So15CALayerDelegateP", "chart"]
+- !private ["So15CALayerDelegateP", "drawBarShadowEnabled"]
+- !private ["So15CALayerDelegateP", "drawValueAboveBarEnabled"]
+- !private ["So15CALayerDelegateP", "init"]
+- ["So15CALayerDelegateP", ""]
+- !private ["s7CVarArgP", "barChart"]
+- !private ["s7CVarArgP", "chart"]
+- !private ["s7CVarArgP", "drawBarShadowEnabled"]
+- !private ["s7CVarArgP", "drawValueAboveBarEnabled"]
+- !private ["s7CVarArgP", "init"]
+- ["s7CVarArgP", ""]
+- !private ["6Charts17ChartDataProviderP", "drawBarShadowEnabled"]
+- !private ["6Charts17ChartDataProviderP", "drawValueAboveBarEnabled"]
+- !private ["6Charts13ChartViewBaseC", "drawBarShadowEnabled"]
+- !private ["6Charts13ChartViewBaseC", "drawValueAboveBarEnabled"]
+- !private ["6Charts17ChartViewDelegateP", "barChart"]
+- !private ["6Charts17ChartViewDelegateP", "chart"]
+- !private ["6Charts17ChartViewDelegateP", "init"]
+- ["6Charts17ChartViewDelegateP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "barChart"]
+- !private ["s28CustomDebugStringConvertibleP", "chart"]
+- !private ["s28CustomDebugStringConvertibleP", "drawBarShadowEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "drawValueAboveBarEnabled"]
+- !private ["s28CustomDebugStringConvertibleP", "init"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "barChart"]
+- !private ["s23CustomStringConvertibleP", "chart"]
+- !private ["s23CustomStringConvertibleP", "drawBarShadowEnabled"]
+- !private ["s23CustomStringConvertibleP", "drawValueAboveBarEnabled"]
+- !private ["s23CustomStringConvertibleP", "init"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s9EquatableP", "barChart"]
+- !private ["s9EquatableP", "chart"]
+- !private ["s9EquatableP", "drawBarShadowEnabled"]
+- !private ["s9EquatableP", "drawValueAboveBarEnabled"]
+- !private ["s9EquatableP", "init"]
+- ["s9EquatableP", ""]
+- !private ["s8HashableP", "barChart"]
+- !private ["s8HashableP", "chart"]
+- !private ["s8HashableP", "drawBarShadowEnabled"]
+- !private ["s8HashableP", "drawValueAboveBarEnabled"]
+- !private ["s8HashableP", "init"]
+- ["s8HashableP", ""]
+- !private ["So8NSCodingP", "barChart"]
+- !private ["So8NSCodingP", "chart"]
+- !private ["So8NSCodingP", "drawBarShadowEnabled"]
+- !private ["So8NSCodingP", "drawValueAboveBarEnabled"]
+- !private ["So8NSCodingP", "init"]
+- ["So8NSCodingP", ""]
+- ["So8NSObjectC", "BarChartView"]
+- ["So8NSObjectC", "Bool"]
+- ["So8NSObjectC", "barChart"]
+- !private ["So8NSObjectC", "chart"]
+- !private ["So8NSObjectC", "drawBarShadowEnabled"]
+- !private ["So8NSObjectC", "drawValueAboveBarEnabled"]
+- ["So8NSObjectC", "init"]
+- ["So8NSObjectC", "setDrawBarShadow"]
+- ["So8NSObjectC", "setDrawValueAboveBar"]
+- !private ["So16NSObjectProtocolP", "barChart"]
+- !private ["So16NSObjectProtocolP", "chart"]
+- !private ["So16NSObjectProtocolP", "drawBarShadowEnabled"]
+- !private ["So16NSObjectProtocolP", "drawValueAboveBarEnabled"]
+- !private ["So16NSObjectProtocolP", "init"]
+- ["So16NSObjectProtocolP", ""]
+- !private ["6Charts8NSUIViewC", "drawBarShadowEnabled"]
+- !private ["6Charts8NSUIViewC", "drawValueAboveBarEnabled"]
+- !private ["So12RCTComponentP", "barChart"]
+- !private ["So12RCTComponentP", "chart"]
+- !private ["So12RCTComponentP", "drawBarShadowEnabled"]
+- !private ["So12RCTComponentP", "drawValueAboveBarEnabled"]
+- !private ["So12RCTComponentP", "init"]
+- ["So12RCTComponentP", ""]
+- ["7Project18RNBarChartViewBaseC", "BarChartView"]
+- ["7Project18RNBarChartViewBaseC", "Bool"]
+- !private ["7Project18RNBarChartViewBaseC", "barChart"]
+- !private ["7Project18RNBarChartViewBaseC", "chart"]
+- ["7Project18RNBarChartViewBaseC", "deinit"]
+- ["7Project18RNBarChartViewBaseC", "init"]
+- ["7Project18RNBarChartViewBaseC", "setDrawBarShadow"]
+- ["7Project18RNBarChartViewBaseC", "setDrawValueAboveBar"]
+- ["7Project22RNBarLineChartViewBaseC", "BarChartView"]
+- ["7Project22RNBarLineChartViewBaseC", "Bool"]
+- ["7Project22RNBarLineChartViewBaseC", "barChart"]
+- !private ["7Project22RNBarLineChartViewBaseC", "chart"]
+- ["7Project22RNBarLineChartViewBaseC", "init"]
+- ["7Project22RNBarLineChartViewBaseC", "setDrawBarShadow"]
+- ["7Project22RNBarLineChartViewBaseC", "setDrawValueAboveBar"]
+- ["7Project22RNBarLineChartViewBaseC", ""]
+- ["7Project15RNChartViewBaseC", "BarChartView"]
+- ["7Project15RNChartViewBaseC", "Bool"]
+- ["7Project15RNChartViewBaseC", "barChart"]
+- !private ["7Project15RNChartViewBaseC", "chart"]
+- ["7Project15RNChartViewBaseC", "init"]
+- ["7Project15RNChartViewBaseC", "setDrawBarShadow"]
+- ["7Project15RNChartViewBaseC", "setDrawValueAboveBar"]
+- ["7Project20RNYAxisChartViewBaseC", "BarChartView"]
+- ["7Project20RNYAxisChartViewBaseC", "Bool"]
+- ["7Project20RNYAxisChartViewBaseC", "barChart"]
+- !private ["7Project20RNYAxisChartViewBaseC", "chart"]
+- ["7Project20RNYAxisChartViewBaseC", "init"]
+- ["7Project20RNYAxisChartViewBaseC", "setDrawBarShadow"]
+- ["7Project20RNYAxisChartViewBaseC", "setDrawValueAboveBar"]
+- !private ["So29UIAccessibilityIdentificationP", "barChart"]
+- !private ["So29UIAccessibilityIdentificationP", "chart"]
+- !private ["So29UIAccessibilityIdentificationP", "drawBarShadowEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "drawValueAboveBarEnabled"]
+- !private ["So29UIAccessibilityIdentificationP", "init"]
+- ["So29UIAccessibilityIdentificationP", ""]
+- !private ["So12UIAppearanceP", "barChart"]
+- !private ["So12UIAppearanceP", "chart"]
+- !private ["So12UIAppearanceP", "drawBarShadowEnabled"]
+- !private ["So12UIAppearanceP", "drawValueAboveBarEnabled"]
+- !private ["So12UIAppearanceP", "init"]
+- ["So12UIAppearanceP", ""]
+- !private ["So21UIAppearanceContainerP", "barChart"]
+- !private ["So21UIAppearanceContainerP", "chart"]
+- !private ["So21UIAppearanceContainerP", "drawBarShadowEnabled"]
+- !private ["So21UIAppearanceContainerP", "drawValueAboveBarEnabled"]
+- !private ["So21UIAppearanceContainerP", "init"]
+- ["So21UIAppearanceContainerP", ""]
+- !private ["So17UICoordinateSpaceP", "barChart"]
+- !private ["So17UICoordinateSpaceP", "chart"]
+- !private ["So17UICoordinateSpaceP", "drawBarShadowEnabled"]
+- !private ["So17UICoordinateSpaceP", "drawValueAboveBarEnabled"]
+- !private ["So17UICoordinateSpaceP", "init"]
+- ["So17UICoordinateSpaceP", ""]
+- !private ["So13UIDynamicItemP", "barChart"]
+- !private ["So13UIDynamicItemP", "chart"]
+- !private ["So13UIDynamicItemP", "drawBarShadowEnabled"]
+- !private ["So13UIDynamicItemP", "drawValueAboveBarEnabled"]
+- !private ["So13UIDynamicItemP", "init"]
+- ["So13UIDynamicItemP", ""]
+- !private ["So18UIFocusEnvironmentP", "barChart"]
+- !private ["So18UIFocusEnvironmentP", "chart"]
+- !private ["So18UIFocusEnvironmentP", "drawBarShadowEnabled"]
+- !private ["So18UIFocusEnvironmentP", "drawValueAboveBarEnabled"]
+- !private ["So18UIFocusEnvironmentP", "init"]
+- ["So18UIFocusEnvironmentP", ""]
+- !private ["So11UIFocusItemP", "barChart"]
+- !private ["So11UIFocusItemP", "chart"]
+- !private ["So11UIFocusItemP", "drawBarShadowEnabled"]
+- !private ["So11UIFocusItemP", "drawValueAboveBarEnabled"]
+- !private ["So11UIFocusItemP", "init"]
+- ["So11UIFocusItemP", ""]
+- !private ["So27UIGestureRecognizerDelegateP", "drawBarShadowEnabled"]
+- !private ["So27UIGestureRecognizerDelegateP", "drawValueAboveBarEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "barChart"]
+- !private ["So30UIPasteConfigurationSupportingP", "chart"]
+- !private ["So30UIPasteConfigurationSupportingP", "drawBarShadowEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "drawValueAboveBarEnabled"]
+- !private ["So30UIPasteConfigurationSupportingP", "init"]
+- ["So30UIPasteConfigurationSupportingP", ""]
+- ["So11UIResponderC", "BarChartView"]
+- ["So11UIResponderC", "Bool"]
+- ["So11UIResponderC", "barChart"]
+- !private ["So11UIResponderC", "chart"]
+- !private ["So11UIResponderC", "drawBarShadowEnabled"]
+- !private ["So11UIResponderC", "drawValueAboveBarEnabled"]
+- ["So11UIResponderC", "init"]
+- ["So11UIResponderC", "setDrawBarShadow"]
+- ["So11UIResponderC", "setDrawValueAboveBar"]
+- !private ["So30UIResponderStandardEditActionsP", "barChart"]
+- !private ["So30UIResponderStandardEditActionsP", "chart"]
+- !private ["So30UIResponderStandardEditActionsP", "drawBarShadowEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "drawValueAboveBarEnabled"]
+- !private ["So30UIResponderStandardEditActionsP", "init"]
+- ["So30UIResponderStandardEditActionsP", ""]
+- !private ["So18UITraitEnvironmentP", "barChart"]
+- !private ["So18UITraitEnvironmentP", "chart"]
+- !private ["So18UITraitEnvironmentP", "drawBarShadowEnabled"]
+- !private ["So18UITraitEnvironmentP", "drawValueAboveBarEnabled"]
+- !private ["So18UITraitEnvironmentP", "init"]
+- ["So18UITraitEnvironmentP", ""]
+- ["So6UIViewC", "BarChartView"]
+- ["So6UIViewC", "Bool"]
+- ["So6UIViewC", "barChart"]
+- !private ["So6UIViewC", "chart"]
+- !private ["So6UIViewC", "drawBarShadowEnabled"]
+- !private ["So6UIViewC", "drawValueAboveBarEnabled"]
+- ["So6UIViewC", "init"]
+- ["So6UIViewC", "setDrawBarShadow"]
+- ["So6UIViewC", "setDrawValueAboveBar"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "barChart"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "chart"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "drawBarShadowEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "drawValueAboveBarEnabled"]
+- !private ["s37_DefaultCustomPlaygroundQuickLookableP", "init"]
+- ["s37_DefaultCustomPlaygroundQuickLookableP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "barChart"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "chart"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "drawBarShadowEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "drawValueAboveBarEnabled"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "init"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+depends-nominal:
+- !private "6Charts16AnimatorDelegateP"
+- !private "6Charts20BarChartDataProviderP"
+- !private "6Charts12BarChartViewC"
+- !private "6Charts20BarLineChartViewBaseC"
+- !private "6Charts43BarLineScatterCandleBubbleChartDataProviderP"
+- "So15CALayerDelegateP"
+- "s7CVarArgP"
+- !private "6Charts17ChartDataProviderP"
+- !private "6Charts13ChartViewBaseC"
+- "6Charts17ChartViewDelegateP"
+- "s28CustomDebugStringConvertibleP"
+- "s23CustomStringConvertibleP"
+- "s9EquatableP"
+- "s8HashableP"
+- "So8NSCodingP"
+- "So8NSObjectC"
+- "So16NSObjectProtocolP"
+- !private "6Charts8NSUIViewC"
+- "So12RCTComponentP"
+- "7Project18RNBarChartViewBaseC"
+- "7Project22RNBarLineChartViewBaseC"
+- "7Project15RNChartViewBaseC"
+- "7Project20RNYAxisChartViewBaseC"
+- "So29UIAccessibilityIdentificationP"
+- "So12UIAppearanceP"
+- "So21UIAppearanceContainerP"
+- "So17UICoordinateSpaceP"
+- "So13UIDynamicItemP"
+- "So18UIFocusEnvironmentP"
+- "So11UIFocusItemP"
+- !private "So27UIGestureRecognizerDelegateP"
+- "So30UIPasteConfigurationSupportingP"
+- "So11UIResponderC"
+- "So30UIResponderStandardEditActionsP"
+- "So18UITraitEnvironmentP"
+- "So6UIViewC"
+- "s37_DefaultCustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.apinotesc"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/SwiftyJSON.swiftmodule/x86_64.swiftmodule"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Modules/Charts.swiftmodule/x86_64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Metal.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreFoundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/Yoga.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridge.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeModule.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBorderStyle.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTTextDecorationLineType.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAnimationType.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTFrameUpdate.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTBridgeDelegate.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTInvalidating.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTLog.h"
+- "/Users/sitingyo/ReactNative/Project/ios/Project-Bridging-Header.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTJavaScriptLoader.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUIManager.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTViewManager.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventDispatcher.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTEventEmitter.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTDefines.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTUtils.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTPointerEvents.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Headers/Charts.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/UIView+React.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Headers/SwiftyJSON-Swift.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Headers/Charts-Swift.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTComponent.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTAssert.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTConvert.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/include/React/RCTRootView.h"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/SwiftyJSON.framework/Modules/module.modulemap"
+- "/Users/sitingyo/ReactNative/Project/ios/build/Build/Products/Debug-iphonesimulator/Charts.framework/Modules/module.modulemap"
+interface-hash: "cb29db478d5e4b586acef59fb3ec601e"
